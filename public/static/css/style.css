@@ -816,6 +816,20 @@ mark {
     width: 100%;
   }
 }
+
+@media (max-width: 990px) {
+  #model-2 {
+    margin: auto;
+  } 
+}
+
+@media (min-width: 990px) {
+  #model-2 {
+    margin-left: auto;
+    margin-right: auto;
+  } 
+}
+
 .portfolio-content.grid-gutter-md {
   margin-left: -4px;
   margin-right: -4px;

@@ -6,5 +6,5 @@ export default function model() {
     <Canvas camera={{ position: [0, 0, 2.5], fov: 50 }}>
         <Experience />
     </Canvas>
-  )
+  ) 
 }

@@ -8,7 +8,7 @@ export default function Modelskill() {
       <group position={[0, 0, 0]}>
       <Skill />
       </group>
-        <OrbitControls enableZoom={false} autoRotate/>
+        <OrbitControls enableZoom={false} autoRotate  enableRotate={false}/>
         <mesh>
       <spotLight
         position={[-20, 50, 10]}

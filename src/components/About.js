@@ -101,7 +101,7 @@ const About = () => {
               </div>
             </div>
           </div>
-          <div style={{height: "500px" , width: "330px" , marginLeft: "90px" , marginTop: "-100px"}} >
+          <div className="model" id="model-2" >
               <Modelskill />
             </div>
         </div>
